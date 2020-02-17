@@ -16,8 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Label for the Todak system components when they are shown to the user. -->
-    <string name="lineageos_system_label">Todak System</string>
+    <!-- Label for the TodakROM system components when they are shown to the user. -->
+    <string name="lineageos_system_label">TodakROM System</string>
 
     <!-- Labels for the MODIFY_PROFILES permission. -->
     <string name="permlab_modifyProfiles">modify system profiles</string>
@@ -147,11 +147,11 @@
     <!-- About device screen, build date -->
     <string name="build_date">Build date</string>
     <!-- About device screen, FlokoROM API Level -->
-    <string name="lineage_api_level">Todak  API level</string>
+    <string name="lineage_api_level">TodakROM  API level</string>
     <!-- About device screen, FlokoROM updates -->
-    <string name="lineage_updates">Todak updates</string>
+    <string name="lineage_updates">TodakROM updates</string>
     <!-- About device screen, FlokoROM version -->
-    <string name="lineage_version">Todak version</string>
+    <string name="lineage_version">TodakROM version</string>
     <!-- About device screen, vendor security patch -->
     <string name="lineage_vendor_security_patch">Vendor security patch level</string>
 
